@@ -4,20 +4,8 @@
 
 # Demo
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <div>
-    <img src="img/menu.png" width="300"/>
-    <p align="center">Menu</p>
-  </div>
-  <div>
-    <img src="img/game.png" width="300"/>
-    <p align="center">Game</p>
-  </div>
-  <div>
-    <img src="img/shop.png" width="300"/>
-    <p align="center">Shop</p>
-  </div>
-</div>
+| ![Menu](img/menu.png) | ![Game](img/game.png) | ![Shop](img/shop.png) |
+|-------------------|-------------------|-----------|
 
 # Team
 
